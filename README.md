@@ -12,9 +12,9 @@
   
   <tr>
     <td class="tg-yw4l">Introduction to </td>
-    <td class="tg-yw4l">A basic tutorial to learn about </td>
-    <td class="tg-yw4l">#tag </td>
-    <td class="tg-yw4l"><a href="">
+    <td class="tg-yw4l">A basic tutorial to learn word embedding using a Bag of Words Text Classifier </td>
+    <td class="tg-yw4l">#embeddings #NLP #Classifier </td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1QM1-AwUp7uRknc1Gu27PhRJk3pS7aqng#scrollTo=MUCGEB_D4VkT&uniqifier=1">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
   </tr>
