@@ -28,5 +28,13 @@
 </a></td>
   </tr>
  
+   <tr>
+    <td class="tg-yw4l">Build GPT-like architecture from scratch  </td>
+    <td class="tg-yw4l">A detailed description of how the GPT and Transformer architecture works to generate a decoder-only model that generate Shakespearian texts. Based on this <a href="https://www.youtube.com/watch?v=kCc8FmEb1nY" tutorial>.  </td>
+    <td class="tg-yw4l">#embeddings #NLP #Transformer #GPT #GenerativeLanguageModel #Decoder </td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1hBiPK4DcWNPGTqIrzYOkBfzum6cIuQAT?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>
   </table> 
   
